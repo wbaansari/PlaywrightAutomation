@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","12494","Client App Login","Chrome","2026-09-20","passed","2026-09-20","","ClientAppPO.spec.js","",""
