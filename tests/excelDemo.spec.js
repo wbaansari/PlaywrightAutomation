@@ -37,7 +37,7 @@ function readExcel(worksheet,searchText)
 }
 
 //Update Ansari in the place of Apple
-writeExcel("Mango",344,{rowChange:0,colChange:2},"C:/Users/wbaan/Downloads/excelTest.xlsx");
+//writeExcel("Mango",344,{rowChange:0,colChange:2},"C:/Users/wbaan/Downloads/excelTest.xlsx");
 
 test('Upload Download Excel Validation',async ({page}) =>
 {
